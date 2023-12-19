@@ -1,5 +1,5 @@
 # Guess the song by its lyrics
-## Video Demo:  <URL HERE>
+## [Video Demo](https://youtu.be/KEelFNX6Zvc)
 ### General Description :
 The purpose of this project is to have a game based in the terminal where the player has to guess a song, selected by the program, only based on its most repeated words. The player can customize their game experience by choosing how many words are shown. When the player decides to stop playing, their score is given out of the number of plays they just did.
 
