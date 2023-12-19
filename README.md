@@ -52,7 +52,7 @@ The `song_list` list defined at the beginning of the code and the `pick_song()` 
 ### Download
 Download the repository through Clone Repository or Download Zip
 ```
-git clone
+git clone https://github.com/Clair1234/CS50P-Final-Project.git
 ```
 ### Installation
 After download, go to 'cmd' and navigate to the project folder directory
